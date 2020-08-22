@@ -19,7 +19,8 @@ font-family: sans-serif;
 	margin: 50px;
 	font-size:25px;
 	position: relative;
-	left: 400px;
+	left: 300px;
+	color: orange;
 }
 .menu ul li{
 	list-style:none;
